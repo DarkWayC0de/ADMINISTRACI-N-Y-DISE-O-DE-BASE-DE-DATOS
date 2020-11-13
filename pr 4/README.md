@@ -18,11 +18,16 @@ Crear el esquema de la BDD del diseño lógico  utilizando el software MySql Wor
 
 #### Incorporacion del Script en la Base de Datos
 ![Ejecucion del Script en la base de Datos](image/Ejecucion_del_Script_en_la_base_de_datos_Catastro.png)
- Tablas creadas en la base de datos 
 
+
+Tablas creadas en la base de datos
 ![Tablas en la base de datos](image/Tablas_en_la_base_de_datos.png)
 
 ### Viveros
+#### Diseño relacional
+![Diseño relacional Viveros](image/viveros_relacional.png)
+
+#### Diseño en Workbench
 
 
 
