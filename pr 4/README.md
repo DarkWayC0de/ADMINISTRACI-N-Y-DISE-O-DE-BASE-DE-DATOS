@@ -31,5 +31,12 @@ Tablas creadas en la base de datos
 #### Diseño en Workbench
 ![Diseño Workbech Viveros](image/Diseño_Workbench_Viveros.png)
 
+#### Incorporacion del Script en la Base de Datos
+![Ejecucion del Script en la base de Datos](image/EjecucionScrip_viveros.png)
 
+
+Tablas creadas en la base de datos
+
+
+![Tablas en la base de datos](image/tablas_viveros.png)
 
