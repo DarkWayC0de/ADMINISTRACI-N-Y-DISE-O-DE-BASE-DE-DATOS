@@ -29,7 +29,7 @@ Tablas creadas en la base de datos
 ![Diseño relacional Viveros](image/viveros_relacional.png)
 
 #### Diseño en Workbench
-![Diseño Workbech Viveros](image/Diseño_Workbench_Viveros.png)
+![Diseño Workbech Viveros](image/Diseño_Workbech_Viveros.png)
 
 #### Incorporacion del Script en la Base de Datos
 ![Ejecucion del Script en la base de Datos](image/EjecucionScrip_viveros.png)
