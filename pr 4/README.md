@@ -21,6 +21,7 @@ Crear el esquema de la BDD del diseño lógico  utilizando el software MySql Wor
 
 
 Tablas creadas en la base de datos
+
 ![Tablas en la base de datos](image/Tablas_en_la_base_de_datos.png)
 
 ### Viveros
@@ -28,6 +29,7 @@ Tablas creadas en la base de datos
 ![Diseño relacional Viveros](image/viveros_relacional.png)
 
 #### Diseño en Workbench
+![Diseño Workbech Viveros](image/Diseño_Workbench_Viveros.png)
 
 
 
